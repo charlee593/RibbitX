@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Carlos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Carlos\Documents\GitHub\Ribbit2\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-9dfb60ccf11df7816448810292d4e8bd87859e30.jar" />
+    </item>
+    <item
+        jar="C:\Users\Carlos\Documents\GitHub\Ribbit2\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Carlos\Documents\GitHub\Ribbit2\app\build\intermediates\pre-dexed\debug\commons-io-2.4-424f343dae85ec40a55fbbe771d983d2e12b0381.jar" />
+    </item>
+    <item
+        jar="C:\Users\Carlos\Documents\GitHub\Ribbit2\app\libs\picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="C:\Users\Carlos\Documents\GitHub\Ribbit2\app\build\intermediates\pre-dexed\debug\picasso-2.1.1-e3a28234dd4d8a0cf7fb987c26e838b3e5dad8a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Carlos\Documents\GitHub\Ribbit2\app\libs\Parse-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="077b21d82e098a5d95e46b1868c664a23ada163a">
+        <dex dex="C:\Users\Carlos\Documents\GitHub\Ribbit2\app\build\intermediates\pre-dexed\debug\Parse-1.3.9-23df28ce3896b36119452b119554f6be8250bcc2.jar" />
+    </item>
+
+</items>
